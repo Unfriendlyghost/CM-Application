@@ -25,9 +25,9 @@ Inspiration
 - Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
 
 Titanfall 2
-As an aspiring video game programmer, I enjoy looking at different games, at what they do well and what was executed poorly to better inform my own decisions when designing and developing games.
-Although it came out just over two years ago to date, I find the video game Titanfall 2 as a incredible example of game design. A quick synopsis of the gameplay: you can run, jump, and climb around as a pilot shooting other players, you can then transition to piloting a large robot (titan) that hold large, powerful weapons. Here’s a link to the multiplayer trailer of the game for visual representation: https://www.youtube.com/watch?v=2ISYN1AshZY. For any game to do well it needs to feel fun to play, Titanfall 2 manages to make playing as a pilot or titan equally fun yet vastly different in play style and transitioning from one to the other flows well. It's this part of the game that I find so inspirational.
 
+As an aspiring video game programmer, I enjoy looking at different games, at what they do well and what was executed poorly to better inform my own decisions when designing and developing games.
+Although it came out just over two years ago to date, I find the video game Titanfall 2 as a great example of game design. A quick synopsis of the gameplay: you can run, jump, and climb around as a pilot shooting other players, you can then transition to piloting a large robot (titan) that hold large, powerful weapons. Here’s a link to the multiplayer trailer of the game for visual representation: https://www.youtube.com/watch?v=2ISYN1AshZY. For any game to do well it needs to feel fun to play, Titanfall 2 manages to make playing as a pilot or titan equally fun yet vastly different in play style and transitioning from one to the other flows well. It's this part of the game that I find so inspirational. The maps are designed to have areas where titans excell and areas where only a pilot can access with these areas often crossing over each other makeing playing as either viable. This also means that each effects how the other plays, a pilot dosen't want to run into an area that is heavy with titan acctivity for fear of being targeted so they might have to change what route they take. I don't know how much this counts towards the technical perspective you have asked for but examening how such design decision affect a game really interests me and is the first thing that can to mind when it can to things that inspire me.
 
 
 
@@ -44,4 +44,8 @@ If possible, I'd also like to focus some time on website design and development.
 
 
 Coding Challenge
-2
+I like to start this section with the majority of my programming experiance has been focused around games and 3D graphics. While I do have experiance with javascript (it was actually the first language I started with) I'm much more used to the C languages. I've never been asked to fork a peice of code before so this was an interesting challenge.
+
+However since I've not used CodeSandbox before i don't know if the solution was supposed to be linked with the project. I bring this up as I tried origonally to complete the challenge without looking at the solution, but I struggled and ended up using the solution as a base. Because of this I fear that my code is structured almost the same as the solution. While researching and picking the solution appart I now understand how it works but I don't want to pretend that the solution didn't influence my final build.
+
+
