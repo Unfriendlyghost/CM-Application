@@ -11,11 +11,13 @@ Our team spent the first couple of weeks planning what our game would be, look l
 Link to a itch.io page which the finalized game is on. https://musical-phenix.itch.io/tower-of-2-di
 
 One Week Wonder
+
 Directly following the 12 weeks of developing our first game, our last project for Team Project was what the lecturers called a week in industry where we took what we had learned from the 12-week project and create a game in 5 days. During these 5 days we had to come in at nine in the morning and could only leave after five in the afternoon. The idea was to simulate a games development companies work week, we even had the fortune of having a representative of Sumo Digital come in the first day to give us a presentation and our themes, he also returned to the last day to review the finished games. Given the themes "racing" and "unique movement" our team brainstormed and to make our game stand out from the rest we decided to combine the two themes to make a racing game which incorporated unique movement. For this project I worked on many different elements in the game: I programmed the grenades and the controls that allowed the player to throw them, I built the second half of our games final level based of my teammates design, I created the moving platforms that added variety to the level.
 I again presented our work to my class with my teammates doing a live demo after (as every team did).
 
 
 Calendar Managment Application
+
 With my previous project examples, I wanted to focus on the skills I've learnt while working in a team and the accomplishments I've achieved working on both a long-term and short-term project with others. This last example of my work I'd like to show you is based on my ability to self-teach. For background on my course we had an Application Development module which unfortunately was not taught well. Our final assignment for the module was to develop a calendar management application that could be used by multiple users. We had to create two different clients, one that was web based and another that could be either a mobile app or a windows application. Now a problem with this assignment was that very little of the material we had been taught or given during classes was relevant to this assignment, because of this a lot of us in the class were forced to look for alternative routes. In my case I watched a tutorial series I found online which taught me how to run a MySQL server and Json database using XAMPP and create clients that interacted with it, I then took that and adapted it to fit my assignments criteria. While the module was not what I had hoped, the satisfaction from being able to complete the assignment with what felt like a large roadblock was a big achievement.
 
 
