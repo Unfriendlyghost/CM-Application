@@ -21,6 +21,7 @@ Calendar Managment Application
 With my previous project examples, I wanted to focus on the skills I've learnt while working in a team and the accomplishments I've achieved working on both a long-term and short-term project with others. This last example of my work I'd like to show you is based on my ability to self-teach. For background on my course we had an Application Development module which unfortunately was not taught well. Our final assignment for the module was to develop a calendar management application that could be used by multiple users. We had to create two different clients, one that was web based and another that could be either a mobile app or a windows application. Now a problem with this assignment was that very little of the material we had been taught or given during classes was relevant to this assignment, because of this a lot of us in the class were forced to look for alternative routes. In my case I watched a tutorial series I found online which taught me how to run a MySQL server and Json database using XAMPP and create clients that interacted with it, I then took that and adapted it to fit my assignments criteria. While the module was not what I had hoped, the satisfaction from being able to complete the assignment with what felt like a large roadblock was a big achievement.
 
 
+
 Inspiration
 - Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
 
@@ -41,6 +42,7 @@ Tt to learn/experiehinking a bit broader, I think it's importannce how a company
 As for how I would spend my time I'd hope I could kill two birds with one stone so to speak. In an ideal scenario during the internship I'd work with employees and others on an application project, learning what I can from my betters. During all this I'd be able to observe and experience how a project and company "interact", seeing what departments get involved, how different departments interact with each other, etc.
 
 If possible, I'd also like to focus some time on website design and development.
+
 
 
 Coding Challenge
