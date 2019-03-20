@@ -44,8 +44,9 @@ If possible, I'd also like to focus some time on website design and development.
 
 
 Coding Challenge
+
 I like to start this section by explaining that the majority of my programming experiance has been focused around games and 3D graphics. While I do have experiance with javascript (it was actually the first language I started with) I'm much more used to the C languages. I've never been asked to fork a peice of code before so this was an interesting challenge.
 
-Being unfamiliar with CodeSandbox I am not sure if the solution was supposed to be linked with the project. I bring this up as I tried originally to complete the challenge without looking at the solution, but I ended up looking at the solution for clues. Because of this I fear that my code is structured very similarly to the solution. I wondered perhaps if there was something more that was required of the question so I researched and picked the solution appart and I now understand better how it works but I don't want to pretend that the solution didn't influence my final build, as the solution provided seemed to be the most efficient way to structure the program. To show some of my thinking I have left in some of my ealier code (commented out of course) as an example of where I started with the challenges.
+Being unfamiliar with CodeSandbox I am not sure if the solution was supposed to be linked with the project. I bring this up as I tried originally to complete the challenge without looking at the solution, but I ended up looking at the solution for clues. Because of this I fear that my code is structured very similarly to the solution. I wondered perhaps if there was something more that was required of the question so I researched and picked the solution appart and I now understand better how it works but I don't want to pretend that the solution didn't influence my final build, as the solution provided seemed to be the most efficient way to structure the program. To show some of my thinking I have left in some of my ealier code (commented out of course) as an example of where I started with the challenges. I slightly worried that I may have misunderstood the objective of the challenege.
 
-
+Link to my CodeSandbox code: https://codesandbox.io/embed/q7377053v9?fontsize=14
